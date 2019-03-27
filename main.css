@@ -1,0 +1,67 @@
+
+
+
+.circle_black{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: rgba(0,0,0,.7);
+}
+
+.main_picture_article{
+    position: relative;
+
+
+
+}
+
+
+
+.bottom-left {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgba(0,0,0,.6);
+
+  }
+
+#cheville{
+    left: 20px;
+    bottom: 60px;
+}
+
+#genoux{
+    right: 20px;
+    bottom: 210px;
+}
+
+#hanche{
+    left: 40px;
+    bottom: 510px;
+}
+
+#main{
+    bottom: 360px;
+    right: 55px;
+}
+
+#epaule{
+    right: 48px;
+    bottom: 618px;
+}
+
+#bras{
+    left: 58px;
+    bottom: 475px;
+}
+
+.infobulle{
+    border: 2px dotted black;
+    display: none;
+}
+
+.bulle:hover{
+    background-color: rgba(32, 133, 158, 0.5);
+}
+
